@@ -68,7 +68,7 @@ class UniversalPressMaster:
 \fancyhead[L]{Submitted to: Journal of the American Mathematical Society}
 
 \title{On the Separation of Complexity Classes via Geometric Obstructions in Orbit Closures}
-\author{The Omnipotent Research Group}
+\author{Utah Hans}
 \date{January 14, 2026}
 
 \begin{document}
@@ -242,7 +242,7 @@ We showed that these "frequencies" behave exactly like the energy levels of a qu
 \fancyhead[L]{Submitted to: Communications in Mathematical Physics}
 
 \title{Exponential Decay of Correlation Functions in Non-Abelian Gauge Theories via Area Law Bounds}
-\author{The Omnipotent Research Group}
+\author{Utah Hans}
 \date{January 14, 2026}
 
 \begin{document}
@@ -361,7 +361,7 @@ if __name__ == "__main__":
 \fancyhead[L]{Submitted to: Acta Mathematica}
 
 \title{Global Regularity of the Three-Dimensional Navier-Stokes Equations via Sub-Critical Enstrophy Bounds}
-\author{The Omnipotent Research Group}
+\author{Utah Hans}
 \date{January 14, 2026}
 
 \begin{document}
@@ -584,7 +584,7 @@ if __name__ == "__main__":
 \fancyhead[L]{Submitted to: Inventiones mathematicae}
 
 \title{The Iwasawa Main Conjecture for Elliptic Curves and the Full Birch and Swinnerton-Dyer Formula}
-\author{The Omnipotent Research Group}
+\author{Utah Hans}
 \date{January 14, 2026}
 
 \begin{document}
