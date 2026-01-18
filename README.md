@@ -7,6 +7,7 @@ A celebratory drop of the Millennium Prize Solutions MASTER bundle. This reposit
 - A concise ELI5 explainer
 - A manuscript in LaTeX (and a .docx for convenient viewing)
 - A lightweight Python verification/demo script
+- A PDF of the paper I am submitting along with the publication I am sending it into. 
 
 The goal is to make the big ideas tangible: read the story, skim the math, and run a small script to get a feel for the intuition.
 
