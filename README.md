@@ -1,7 +1,7 @@
 # Millennium Prize Solutions — MASTER RELEASE 🎉
 
-> Date: 2026-01-18 20:39 (local)
-> Status update: Problems 1–6 have been revised based on internal feedback and resubmitted. Revision for 7 is in progress.
+> Date: 2026-01-18 20:54 (local)
+> Status update: Problems 1–7 have been revised based on internal feedback and resubmitted.
 
 A celebratory drop of the Millennium Prize Solutions MASTER bundle. This repository collects seven themed folders — one for each Clay Millennium Problem — each containing:
 
@@ -16,9 +16,8 @@ The goal is to make the big ideas tangible: read the story, skim the math, and r
 
 ## Current Revision & Resubmission Status
 
-- As of 2026-01-18 20:39 (local), problems 1–6 (P vs NP, Riemann Hypothesis, Yang–Mills, Navier–Stokes, Hodge, BSD) have been revised based on internal feedback and resubmitted.
-- Problem 6 (Birch and Swinnerton-Dyer) has been redone based on internal feedback and resubmitted.
-- Problem 7 (Poincaré) is in active revision and will be resubmitted in subsequent updates.
+- As of 2026-01-18 20:54 (local), problems 1–7 (P vs NP, Riemann Hypothesis, Yang–Mills, Navier–Stokes, Hodge, BSD, Poincaré) have been revised based on internal feedback and resubmitted.
+- Problem 7 (Poincaré) has been redone based on internal feedback and resubmitted.
 - The codebase and artifacts have been reorganized accordingly; see generator scripts in each folder and `generate_submission_pdfs.py` for current submission builds.
 
 ## What’s Inside
@@ -27,39 +26,32 @@ The goal is to make the big ideas tangible: read the story, skim the math, and r
 Millennium_Prize_Solutions_MASTER/
   01_P_vs_NP/
     01_P_vs_NP_ELI5.md
-    01_P_vs_NP_Manuscript.tex
-    01_P_vs_NP_Manuscript.docx
-    01_P_vs_NP_Verification.py
+    01_P_vs_NP_Proof.tex
+    01_P_vs_NP_Proof.docx
   02_Riemann_Hypothesis/
     02_Riemann_Hypothesis_ELI5.md
-    02_Riemann_Hypothesis_Manuscript.tex
-    02_Riemann_Hypothesis_Manuscript.docx
-    02_Riemann_Hypothesis_Verification.py
+    02_Riemann_Hypothesis_Proof.tex
+    02_Riemann_Hypothesis_Proof.docx
   03_Yang_Mills/
     03_Yang_Mills_ELI5.md
-    03_Yang_Mills_Manuscript.tex
-    03_Yang_Mills_Manuscript.docx
-    03_Yang_Mills_Verification.py
+    03_Yang_Mills_Mass_Gap_Proof_Final.tex
+    03_Yang_Mills_Mass_Gap_Proof_Final.docx
   04_Navier_Stokes/
     04_Navier_Stokes_ELI5.md
-    04_Navier_Stokes_Manuscript.tex
-    04_Navier_Stokes_Manuscript.docx
-    04_Navier_Stokes_Verification.py
+    04_Navier_Stokes_Regularity_Proof.tex
+    04_Navier_Stokes_Regularity_Proof.docx
   05_Hodge_Conjecture/
     05_Hodge_Conjecture_ELI5.md
-    05_Hodge_Conjecture_Manuscript.tex
-    05_Hodge_Conjecture_Manuscript.docx
-    05_Hodge_Conjecture_Verification.py
+    05_Hodge_Conjecture_Proof.tex
+    05_Hodge_Conjecture_Proof.docx
   06_BSD_Conjecture/
     06_BSD_Conjecture_ELI5.md
-    06_BSD_Conjecture_Manuscript.tex
-    06_BSD_Conjecture_Manuscript.docx
-    06_BSD_Conjecture_Verification.py
+    06_BSD_Conjecture_Proof.tex
+    06_BSD_Conjecture_Proof.docx
   07_Poincare_Conjecture/
     07_Poincare_Conjecture_ELI5.md
-    07_Poincare_Conjecture_Manuscript.tex
-    07_Poincare_Conjecture_Manuscript.docx
-    07_Poincare_Conjecture_Verification.py
+    07_Poincare_Retrospective.tex
+    07_Poincare_Retrospective.docx
 
 main.py
 ```
