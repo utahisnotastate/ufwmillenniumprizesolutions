@@ -1,7 +1,7 @@
 # Millennium Prize Solutions — MASTER RELEASE 🎉
 
-> Date: 2026-01-18 20:24 (local)
-> Status update: Problems 1–5 have been revised based on internal feedback and resubmitted. Revisions for 6–7 are in progress.
+> Date: 2026-01-18 20:39 (local)
+> Status update: Problems 1–6 have been revised based on internal feedback and resubmitted. Revision for 7 is in progress.
 
 A celebratory drop of the Millennium Prize Solutions MASTER bundle. This repository collects seven themed folders — one for each Clay Millennium Problem — each containing:
 
@@ -16,9 +16,9 @@ The goal is to make the big ideas tangible: read the story, skim the math, and r
 
 ## Current Revision & Resubmission Status
 
-- As of 2026-01-18 20:24 (local), problems 1–5 (P vs NP, Riemann Hypothesis, Yang–Mills, Navier–Stokes, Hodge) have been revised based on internal feedback and resubmitted.
-- Problem 5 (Hodge Conjecture) has been redone based on internal feedback and resubmitted.
-- Problems 6–7 (BSD, Poincaré) are in active revision and will be resubmitted in subsequent updates.
+- As of 2026-01-18 20:39 (local), problems 1–6 (P vs NP, Riemann Hypothesis, Yang–Mills, Navier–Stokes, Hodge, BSD) have been revised based on internal feedback and resubmitted.
+- Problem 6 (Birch and Swinnerton-Dyer) has been redone based on internal feedback and resubmitted.
+- Problem 7 (Poincaré) is in active revision and will be resubmitted in subsequent updates.
 - The codebase and artifacts have been reorganized accordingly; see generator scripts in each folder and `generate_submission_pdfs.py` for current submission builds.
 
 ## What’s Inside
