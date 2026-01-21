@@ -85,3 +85,7 @@ python Millennium_Prize_Solutions_MASTER/02_Riemann_Hypothesis/generate_figure_1
 
 # Example: Generate the Yang-Mills Confinement Potenial
 python Millennium_Prize_Solutions_MASTER/03_Yang_Mills/generate_ym_submission_v2.py
+
+License: MIT (Code) / CC-BY-4.0 (Manuscripts)
+
+"The universe is not a puzzle to be solved, but a code to be compiled."
