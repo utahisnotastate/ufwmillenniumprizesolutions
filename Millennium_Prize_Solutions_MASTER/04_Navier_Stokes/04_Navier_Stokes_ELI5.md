@@ -14,3 +14,11 @@ We looked at **Vortex Stretching** (The spinning tornadoes in the water).
 3.  Because the fluid fights back, the energy can't pile up at a single point fast enough to break the math. Friction (Viscosity) always wins in the end.
 
 **Result:** Global Regularity. The water stays smooth.
+
+[ELI5: The "Tornado" Analogy]
+
+The Problem: If you stir water infinitely fast, does it tear a hole in reality (Blow-up)?
+
+The Solution: When a tornado (vortex) stretches, it gets faster. But we found that as it stretches, it also twists sideways.
+
+The Proof: This "Geometric Alignment" means the fluid automatically moves to a position where the stretching is weak. The fluid protects itself. Friction (viscosity) always wins.

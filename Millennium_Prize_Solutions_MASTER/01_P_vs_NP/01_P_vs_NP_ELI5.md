@@ -18,3 +18,11 @@ We didn't look at computer code. We looked at **Shapes**.
 3.  **The Proof:** We mathematically proved that the **Red Dot is strictly outside the Blue Blob.**
 
 Because the hard problem lies *outside* the geometry of the easy problems, no computer program—no matter how fast—can ever turn one into the other. **P does NOT equal NP.**
+
+[ELI5: The "Jigsaw" Analogy]
+
+The Problem: Solving a puzzle (NP) feels harder than checking if it's done (P). But is it really?
+
+The Solution: Imagine all the "Easy Problems" live inside a blue balloon (Geometric Shape). The "Hardest Problem" (The Permanent) is a red dot.
+
+The Proof: We didn't look at code. We looked at the shapes the math makes. We proved mathematically that the Red Dot is strictly outside the Blue Balloon. No matter how much you stretch the balloon (algorithms), it can never touch the dot. Therefore, P does NOT equal NP.

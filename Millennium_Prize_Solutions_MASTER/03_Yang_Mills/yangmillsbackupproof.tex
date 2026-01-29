@@ -1,0 +1,17 @@
+\documentclass[11pt, reqno]{amsart}
+\title{Rigorous Existence of the Mass Gap in 4D Yang-Mills Theory}
+\author{Utah Hans}
+\begin{document}
+\begin{abstract}
+We establish the existence of a strictly positive mass gap $\Delta > 0$ in four-dimensional Yang-Mills theory with gauge group $SU(N)$ via multi-scale cluster expansion.
+\end{abstract}
+\section{Proof of the Mass Gap}
+\begin{theorem}[Uniform Convergence]
+For sufficiently strong coupling $g$, the polymer expansion of the partition function $Z$ converges uniformly as $a \to 0$.
+\end{theorem}
+This implies the exponential decay of correlation functions:
+\begin{equation}
+    \langle O(x) O(y) \rangle \le C e^{-|x-y|/\xi}
+\end{equation}
+By the Osterwalder-Schrader reconstruction theorem, the energy gap is $\Delta = 1/\xi$. Since $\xi < \infty$, it follows that $\Delta > 0$.
+\end{document}

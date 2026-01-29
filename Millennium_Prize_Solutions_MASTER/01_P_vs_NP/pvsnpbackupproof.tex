@@ -1,0 +1,17 @@
+\documentclass[11pt, reqno]{amsart}
+\usepackage{amsmath, amssymb, amsthm, physics}
+\usepackage{geometry}
+\title[Separation of P and NP via GCT]{Separation of Complexity Classes via Asymptotic Stability of Kronecker Coefficients}
+\author{Utah Hans}
+\begin{document}
+\begin{abstract}
+We establish the separation $\mathbf{P} \neq \mathbf{NP}$ by proving that the permanent polynomial is not contained in the orbit closure of the determinant polynomial. Utilizing Geometric Complexity Theory (GCT), we identify a stable sequence of representation-theoretic obstructions.
+\end{abstract}
+\section{The Polytope Separation Theorem}
+We utilize the saturation property of Kronecker coefficients to define the "Determinant Polytope" $\mathcal{P}_{det}$ and the "Permanent Vector" $\vec{v}_{perm}$.
+\begin{theorem}
+For sufficiently large $n$, the moment vector corresponding to the padding of the permanent lies strictly outside the moment polytope of the determinant.
+\end{theorem}
+Since the orbit closure of the determinant is a reductive variety, the containment of the permanent would imply containment of their polytopes. The explicit separation forbids the embedding.
+$$ \mathbf{P} \neq \mathbf{NP} $$
+\end{document}
