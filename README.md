@@ -30,6 +30,9 @@ Each directory contains the complete submission package for the respective probl
 
 ---
 
+## Hero of the Mass Gap title unlocked!!!
+https://github.com/utahisnotastate/ufwmillenniumprizesolutions/blob/main/YANG_MILLS_MASS_GAP_PROOF.md
+
 ## 🧠 The Solutions (Architectural Overview)
 
 ### 01. P vs NP (`01_P_vs_NP`)
