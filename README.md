@@ -35,6 +35,8 @@ https://github.com/utahisnotastate/ufwmillenniumprizesolutions/blob/main/YANG_MI
 
 ## 🧠 The Solutions (Architectural Overview)
 
+## Go here if you dont like papers: https://math.utahcreates.com/
+
 ### 01. P vs NP (`01_P_vs_NP`)
 **The Breakthrough:** We abandoned the search for a fast algorithm and instead proved that one *cannot* exist using geometry.
 * **Mechanism:** We constructed the "Moment Polytope" for the orbit closure of the Determinant (P) and proved that the invariant vector of the Permanent (NP) lies strictly outside this convex hull.
